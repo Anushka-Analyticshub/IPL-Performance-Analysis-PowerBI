@@ -96,17 +96,21 @@ The complete dashboard contains four analytical views covering tournament overvi
 
 The project includes four interactive Power BI dashboard views covering IPL overview, team performance, player performance, and executive-level insights.
 
+
 ### 🏏 IPL Overview Dashboard
 ![IPL Overview Dashboard](Dashboard-preview/IPL%20Overview%20Dashboard.png)
 
-### 🏆 IPL Team Analysis
+### 👥 IPL Team Analysis
 ![IPL Team Analysis](Dashboard-preview/IPL%20Team%20Analysis.png)
 
-### 👤 IPL Player Analysis
+### 🏅 IPL Player Analysis
 ![IPL Player Analysis](Dashboard-preview/IPL%20Player%20Analysis.png)
 
 ### 📈 Executive Dashboard
 ![Executive Dashboard](Dashboard-preview/Executive%20Dashboard.png)
+
+
+
 ## 📄 Project Documentation
 
 The repository includes the project dashboard PDF and supporting documentation for reference.
