@@ -105,10 +105,10 @@ The project includes four interactive Power BI dashboard views covering IPL over
 ![IPL Team Analysis](Dashboard-preview/IPL%20Team%20Analysis)
 
 ### 🏅 IPL Player Analysis
-![IPL Player Analysis](Dashboard-preview/IPL%20Player%20Analysis.png)
+![IPL Player Analysis](Dashboard-preview/IPL%20Player%20Analysis)
 
 ### 📈 Executive Dashboard
-![Executive Dashboard](Dashboard-preview/Executive%20Dashboard.png)
+![Executive Dashboard](Dashboard-preview/Executive%20Dashboard)
 
 
 
